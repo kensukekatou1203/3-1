@@ -41,15 +41,15 @@ body {
 
 #box1 {
 	float: center;
-	width: 500px;
-	height: 150px;
+	width: 600px;
+	height: 200px;
 	background-color: red;
 }
 
 #box2 {
 	float: center;
-	width: 500px;
-	height: 150px;
+	width: 600px;
+	height: 200px;
 	background-color: blue;
 }
 
